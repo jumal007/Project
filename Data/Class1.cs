@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Data
+﻿namespace Abc.Data
 {
     public class Class1
     {
